@@ -1,0 +1,106 @@
+body{
+    border-style: ;
+}
+
+.yellow{
+    background-color: #FFEB55;
+    text-align: center;
+    margin: auto;
+    width: 70%;
+    padding: 10px;
+    margin-top: 10px;
+    
+}
+
+svg{
+    margin-top: 20px;
+}
+
+
+.white{
+    
+    color: gray;
+    background-color: white;
+    width: 400px;
+    margin: auto;
+    border-radius: 20px;
+    border-right: 5px solid black;
+    border-bottom: 5px solid black;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    
+    font-family: "Figtree", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    
+    
+    
+}
+
+.learning{
+    width: 70px;
+    height: 25px;
+    position: relative;
+    left: 20px;
+    margin-top: 10px;
+    background-color: #FFEB55;
+    color: black;
+}
+
+
+p{
+    position: relative;
+    right: 110px;
+    color: black;
+}
+
+h1{
+    color: black;
+}
+
+img{
+    position: relative;
+    right: 180px;
+    top: 50px;
+    border-radius: 50%;
+    
+}
+
+
+
+@media only screen and (max-width:375px) {
+    /* For mobile phones: */
+    .yellow {
+      width: 100%;
+      padding: 10px;
+   
+  }
+
+  }
+
+
+  @media only screen and (max-width:500px) {
+    /* For tablets: */
+    .yellow {
+      width: 100%;
+      padding: 10px;
+   
+  }
+
+  }
+ 
+
+  @media only screen and (max-width:1440px) {
+    /* For desktop: */
+    .yellow {
+      width: 100%;
+      padding: 10px;
+   
+  }
+
+  }
+
+
+
+  
